@@ -1,3 +1,5 @@
 1. value_encoding_neuron_distribution
 2. neuron_centric_density
 3. beta_val_heatmap
+4. shuffle_sign_null_CI
+5. moving_gaussian_average
